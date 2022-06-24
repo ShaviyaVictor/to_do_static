@@ -25,3 +25,11 @@ body {
   width: 50%;
   min-width: 400px;
 }
+h1 {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 45px;
+  color: #335c62;
+  font-weight: 700;
+}
