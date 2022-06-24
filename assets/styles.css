@@ -89,3 +89,6 @@ input {
   color: #fff;
   cursor: pointer;
 }
+.btn_add:hover {
+  opacity: 0.9;
+}
