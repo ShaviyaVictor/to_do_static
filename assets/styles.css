@@ -71,3 +71,12 @@ ul li a:hover {
 input, button {
   font: 400 20px 'Lato', sans-serif;
 }
+input {
+  width: 60%;
+  height: 40px;
+  color: #5c5c5c;
+  border: 1px solid #dcdce6;
+  border-radius: 8px;
+  padding: 0 24px;
+  margin-right: 10px;
+}
