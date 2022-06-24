@@ -80,3 +80,12 @@ input {
   padding: 0 24px;
   margin-right: 10px;
 }
+.btn_add {
+  width: 30%;
+  height: 40px;
+  border: 1px solid #dcdce6;
+  border-radius: 8px;
+  background: #59a2ad;
+  color: #fff;
+  cursor: pointer;
+}
