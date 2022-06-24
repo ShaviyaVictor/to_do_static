@@ -56,3 +56,12 @@ ul li {
   margin-bottom: 10px;
   color: #5c5c5c;
 }
+ul li a {
+  margin-left: 15px;
+  color: white;
+  cursor: pointer;
+  border: 1px solid #7cbe7b;
+  border-radius: 5px;
+  padding: 0 15px 2px 15px;
+  background: #7cbe7b;
+}
