@@ -33,3 +33,11 @@ h1 {
   color: #335c62;
   font-weight: 700;
 }
+p {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 30px;
+  color: #5c5c5c;
+  font-weight: 300;
+}
