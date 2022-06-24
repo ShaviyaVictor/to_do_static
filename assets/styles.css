@@ -65,3 +65,9 @@ ul li a {
   padding: 0 15px 2px 15px;
   background: #7cbe7b;
 }
+ul li a:hover {
+  opacity: 0.8;
+}
+input, button {
+  font: 400 20px 'Lato', sans-serif;
+}
