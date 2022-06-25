@@ -53,6 +53,8 @@ function deleteToDo(pos) {
 
 }
 
+linkText.onclick = deleteToDo;
+
 function saveToSTorage() {
 
   localStorage.setItem("list_todos", JSON.stringify(todos));
