@@ -24,8 +24,8 @@ function renderToDos() {
     todoElement.appendChild(linkElement);
     listElement.appendChild(todoElement);
 
-    
-
   }
 
 }
+
+renderToDos();
