@@ -44,4 +44,11 @@ function addToDo() {
 
 buttonElement.onclick = addToDo;
 
+function deleteToDo(pos) {
 
+  todos.splice(pos, 1);
+  
+  renderToDos();
+  saveToSTorage();
+
+}
