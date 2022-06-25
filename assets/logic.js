@@ -52,3 +52,9 @@ function deleteToDo(pos) {
   saveToSTorage();
 
 }
+
+function saveToSTorage() {
+
+  localStorage.setItem("list_todos", JSON.stringify(todos));
+
+}
