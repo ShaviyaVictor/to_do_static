@@ -33,6 +33,11 @@ renderToDos();
 function addToDos() {
 
   var todoText = inputElement.value;
+
+  todos.push(todoText);
+  inputElement.value = "";
   
+  renderToDos();
+  saveToSTorage();
 
 }
