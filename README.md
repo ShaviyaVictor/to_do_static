@@ -1,11 +1,7 @@
 # to_do_static
 An app lets you write, organize, and reprioritize your tasks more efficiently. They also let you attach notes, links, and files to a task, and many let you see when someone else has completed a task. In many ways, the ultimate productivity app.
-
-
-# calculator_app_javascript
-Building a calculator app using vanilla JavaScript to deployment as compared to the Java calculator app.
-           
-<img src="https://github.com/ShaviyaVictor/calculator_app_javascript/blob/main/assets/images/js_calculator.png" width="400" height="660">             
+          
+<img src="https://github.com/ShaviyaVictor/to_do_static/blob/gh-pages/assets/images/to_do.png" width="600" height="350">             
 
 ## Built With
 
@@ -17,11 +13,11 @@ Building a calculator app using vanilla JavaScript to deployment as compared to 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/calculator_app_javascript/blob/main/LICENSE).     
+This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/to_do_static/blob/gh-pages/LICENSE).     
 
 ## Acknowledgments
 
-* @web_dev_simplified
+* @webdesignuniversity
 
 ### Author
 
