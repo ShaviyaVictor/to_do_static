@@ -14,6 +14,10 @@ function renderToDos() {
     var todoText = document.createTextNode(todo);
     var linkElement = document.createElement("a");
 
+    linkElement.setAttribute("href", "#");
+    var pos = todos.indexOf(todo);
+    linkElement.setAttribute("onclick", "deleteTodo(" + pos + ")");
+
   }
 
 }
