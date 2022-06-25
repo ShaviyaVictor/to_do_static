@@ -29,3 +29,10 @@ function renderToDos() {
 }
 
 renderToDos();
+
+function addToDos() {
+
+  var todoText = inputElement.value;
+  
+
+}
