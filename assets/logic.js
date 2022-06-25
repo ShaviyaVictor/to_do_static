@@ -30,14 +30,18 @@ function renderToDos() {
 
 renderToDos();
 
-function addToDos() {
+function addToDo() {
 
   var todoText = inputElement.value;
 
   todos.push(todoText);
   inputElement.value = "";
-  
+
   renderToDos();
   saveToSTorage();
 
 }
+
+buttonElement.onclick = addToDo;
+
+
